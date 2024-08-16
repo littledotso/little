@@ -541,6 +541,7 @@
 }
 
 .commento-root .commento-markdown-button {
+    visibility: hidden;
     color: #707880;
     margin: 0 16px;
     font-size: 12px;
