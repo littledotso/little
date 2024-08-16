@@ -519,6 +519,7 @@
 }
 
 .commento-root .commento-anonymous-checkbox-container {
+    visibility: hidden;
     float: right;
     margin: 20px 16px
 }
