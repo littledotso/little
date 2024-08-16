@@ -1172,12 +1172,12 @@
 }
 
 .commento-root .commento-sort-policy-buttons-container {
-    margin-top:-20px;
     padding: 12px 0;
     font-weight: 400
 }
 
 .commento-root .commento-sort-policy-buttons-container .commento-sort-policy-buttons {
+    margin-top:-20px;
     float: right
 }
 
