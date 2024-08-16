@@ -553,6 +553,7 @@
 }
 
 .commento-root .commento-markdown-button b {
+    visibility: hidden;
     font-size: 12px
 }
 
