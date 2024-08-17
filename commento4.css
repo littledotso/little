@@ -834,7 +834,7 @@
 
 .commento-root .commento-login-box-container .commento-login-box {
     width: 90%;
-    max-width: 500px;
+    max-width: 360px;
     min-height: 100px;
     background: #f1f3f5;
     z-index: 99999;
