@@ -59,3 +59,12 @@
     margin: 35vh 0;
     font-size: 15px;
 }
+
+.commento-root .commento-login-box-container .commento-login-box .commento-login-box-close {
+    position: absolute;
+    right: 47vw;
+    top: 70vh;
+    width: 16px;
+    height: 16px;
+    opacity: .3;
+}
