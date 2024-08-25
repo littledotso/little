@@ -519,12 +519,12 @@
 }
 
 .commento-root .commento-anonymous-checkbox-container {
-    display: hide;
     float: right;
     margin: 20px 16px
 }
 
 .commento-root .commento-anonymous-checkbox-container input[type=checkbox]+label {
+    display: hide;
     padding-left: 24px;
     text-transform: none;
     font-size: 12px;
