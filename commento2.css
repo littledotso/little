@@ -20,3 +20,14 @@
     opacity: 1;
     transition: opacity .2s
 }
+
+.commento-root .commento-markdown-button {
+    visibility: hidden;
+    color: #707880;
+    margin: 0 16px;
+    font-size: 12px;
+    border: none;
+    line-height: 58px;
+    font-weight: 400;
+    cursor: pointer
+}
