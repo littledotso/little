@@ -477,7 +477,7 @@
     padding: 8px;
     outline: 0;
     overflow: auto;
-    min-height: 130px;
+    min-height: 40px;
     width: 100%
 }
 
