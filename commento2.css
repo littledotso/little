@@ -263,7 +263,7 @@
 
 .commento-root * {
     font-family: inherit;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 1.5;
     color: #50596c;
     text-rendering: optimizeLegibility
@@ -540,7 +540,6 @@
 }
 
 .commento-root .commento-markdown-button {
-    visibility: hidden;
     color: #707880;
     margin: 0 16px;
     font-size: 12px;
@@ -552,7 +551,6 @@
 }
 
 .commento-root .commento-markdown-button b {
-    visibility: hidden;
     font-size: 12px
 }
 
@@ -1176,7 +1174,6 @@
 }
 
 .commento-root .commento-sort-policy-buttons-container .commento-sort-policy-buttons {
-    margin-top: -50px;
     float: right
 }
 
