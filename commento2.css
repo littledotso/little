@@ -93,3 +93,9 @@
     z-index: 3;
     background: #50596c;
 }
+
+.commento-root .commento-card .commento-option-cancel {
+    height: 13px;
+    width: 13px; 
+    margin: 12px -62px;
+}
