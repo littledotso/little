@@ -509,7 +509,6 @@
 .commento-root .commento-submit-button {
     float: right;
     background: #1971c2;
-    text-transform: uppercase;
     font-size: 12px;
     margin-top: 10px
 }
