@@ -526,7 +526,6 @@
 .commento-root .commento-anonymous-checkbox-container input[type=checkbox]+label {
     padding-left: 24px;
     font-size: 12px;
-    text-transform: uppercase;
     font-weight: 700;
     color: #495057
 }
