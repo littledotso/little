@@ -39,3 +39,10 @@
     font-weight: 700;
     color: #495057
 }
+
+.commento-root .commento-submit-button {
+    float: right;
+    background: #1971c2;
+    text-transform: none;
+    font-size: 12px;
+    margin-top: 10px;
