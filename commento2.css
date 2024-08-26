@@ -106,3 +106,10 @@
     font-size: 12px;
     font-weight: 700;
 }
+
+.commento-root .commento-card .commento-timeago {
+    display: inline;
+    margin-left: -11px;
+    color: #888;
+    font-size: 12px;
+}
