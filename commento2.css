@@ -113,3 +113,9 @@
     color: #888;
     font-size: 12px;
 }
+
+.commento-root .commento-sort-policy-buttons-container .commento-sort-policy-buttons .commento-sort-policy-button {
+    color: #707880;
+    font-size: 13px;
+    display: none;
+}
