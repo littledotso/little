@@ -72,7 +72,7 @@
 .commento-root .commento-card .commento-option-reply {
     height: 20px;
     width: 20px;
-    margin: 10px -62px;
+    margin: 10px -95px;
 }
 
 .commento-root .commento-card .commento-option-downvote, .commento-root .commento-card .commento-option-upvote {
@@ -97,7 +97,7 @@
 .commento-root .commento-card .commento-option-cancel {
     height: 13px;
     width: 13px; 
-    margin: 12px -62px;
+    margin: 12px -95px;
 }
 
 .commento-root .commento-card .commento-score {
