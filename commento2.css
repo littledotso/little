@@ -129,3 +129,11 @@
     cursor: pointer;
     display: block;
 }
+
+.commento-root .commento-card .commento-option-uncollapse {
+    display: none;
+}
+
+.commento-root .commento-card .commento-option-collapse {
+    dispaly: none;
+}
