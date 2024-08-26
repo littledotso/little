@@ -99,3 +99,10 @@
     width: 13px; 
     margin: 12px -62px;
 }
+
+.commento-root .commento-card .commento-score {
+    display: none;
+    color: #888;
+    font-size: 12px;
+    font-weight: 700;
+}
