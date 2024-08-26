@@ -119,3 +119,13 @@
     font-size: 13px;
     display: none;
 }
+
+.commento-root .commento-login .commento-login-text {
+    text-align: right;
+    margin-right: 16px;
+    height: 18px;
+    color: #707880;
+    font-weight: 700;
+    cursor: pointer;
+    display: block;
+}
